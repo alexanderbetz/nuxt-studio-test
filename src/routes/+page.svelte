@@ -1,5 +1,10 @@
+<svelte:head>
+  <title>Full Stack Webdevelopment - Alexander Betz</title>
+  <meta name="description" content="Full Stack Webdeveloper mit mehr als 6 Jahren Erfahrung in: Vue, Svelte, Springboot(Kotlin, Java), Laravel. Bereits gearbeitet mit Deckweiss GmbH und Notruf NÖ GmbH." />
+</svelte:head>
+
 <div class="space-y-6">
-  <h1 class="text-3xl font-bold">Fullstack Webdevelopment</h1>
+  <h1 class="text-3xl font-bold">Full Stack Webdevelopment</h1>
 
   <div class="text-center">
     <p>Alexander Betz</p>
